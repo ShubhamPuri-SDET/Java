@@ -9,4 +9,4 @@ public class AccessModifier_Protected {
         // Call the bark method
         dog.bark();
     }
-}
+}   
